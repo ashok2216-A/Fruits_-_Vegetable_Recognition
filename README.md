@@ -52,73 +52,7 @@ Horea Muresan, Mihai Oltean, Fruit recognition from images using deep learning, 
 
 The paper introduces the dataset and implementation of a Neural Network trained to recognize the fruits in the dataset.
 
-Alternate download
-This dataset is also available for download from GitHub: Fruits-360 dataset
-
-History
-Fruits were filmed at the dates given below (YYYY.MM.DD):
-
-2017.02.25 - Apple (golden).
-
-2017.02.28 - Apple (red-yellow, red, golden2), Kiwi, Pear, Grapefruit, Lemon, Orange, Strawberry, Banana.
-
-2017.03.05 - Apple (golden3, Braeburn, Granny Smith, red2).
-
-2017.03.07 - Apple (red3).
-
-2017.05.10 - Plum, Peach, Peach flat, Apricot, Nectarine, Pomegranate.
-
-2017.05.27 - Avocado, Papaya, Grape, Cherrie.
-
-2017.12.25 - Carambula, Cactus fruit, Granadilla, Kaki, Kumsquats, Passion fruit, Avocado ripe, Quince.
-
-2017.12.28 - Clementine, Cocos, Mango, Lime, Lychee.
-
-2017.12.31 - Apple Red Delicious, Pear Monster, Grape White.
-
-2018.01.14 - Ananas, Grapefruit Pink, Mandarine, Pineapple, Tangelo.
-
-2018.01.19 - Huckleberry, Raspberry.
-
-2018.01.26 - Dates, Maracuja, Plum 2, Salak, Tamarillo.
-
-2018.02.05 - Guava, Grape White 2, Lemon Meyer
-
-2018.02.07 - Banana Red, Pepino, Pitahaya Red.
-
-2018.02.08 - Pear Abate, Pear Williams.
-
-2018.05.22 - Lemon rotated, Pomegranate rotated.
-
-2018.05.24 - Cherry Rainier, Cherry 2, Strawberry Wedge.
-
-2018.05.26 - Cantaloupe (2 varieties).
-
-2018.05.31 - Melon Piel de Sapo.
-
-2018.06.05 - Pineapple Mini, Physalis, Physalis with Husk, Rambutan.
-
-2018.06.08 - Mulberry, Redcurrant.
-
-2018.06.16 - Hazelnut, Walnut, Tomato, Cherry Red.
-
-2018.06.17 - Cherry Wax (Yellow, Red, Black).
-
-2018.08.19 - Apple Red Yellow 2, Grape Blue, Grape White 3-4, Peach 2, Plum 3, Tomato Maroon, Tomato 1-4 .
-
-2018.12.20 - Nut Pecan, Pear Kaiser, Tomato Yellow.
-
-2018.12.21 - Banana Lady Finger, Chesnut, Mangostan.
-
-2018.12.22 - Pomelo Sweetie.
-
-2019.04.21 - Apple Crimson Snow, Apple Pink Lady, Blueberry, Kohlrabi, Mango Red, Pear Red, Pepper (Red, Yellow, Green).
-
-2019.06.18 - Beetroot Red, Corn, Ginger Root, Nectarine Flat, Nut Forest, Onion Red, Onion Red Peeled, Onion White, Potato Red, Potato Red Washed, Potato Sweet, Potato White.
-
-2019.07.07 - Cauliflower, Eggplant, Pear Forelle, Pepper Orange, Tomato Heart.
-
-2019.09.22 - Corn Husk, Cucumber Ripe, Fig, Pear 2, Pear Stone, Tomato not Ripened, Watermelon.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 License
 MIT License
