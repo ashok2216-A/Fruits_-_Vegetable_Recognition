@@ -85,7 +85,7 @@ SOFTWARE.
 
 # About this Project
 
-This Image Recognition project is build in Convolutional Neural Network (CNN)
+**This Image Recognition project is build in Convolutional Neural Network (CNN)**
 
 
 
@@ -116,10 +116,10 @@ This Image Recognition project is build in Convolutional Neural Network (CNN)
 
 # Case Study of CNN for Diabetic retinopathy :
 
-Diabetic retinopathy also known as diabetic eye disease, is a medical state in which destruction occurs to the retina due to diabetes mellitus, It is a major cause of blindness in advance countries.
-Diabetic retinopathy influence up to 80 percent of those who have had diabetes for 20 years or more.
-The overlong a person has diabetes, the higher his or her chances of growing diabetic retinopathy.
-It is also the main cause of blindness in people of age group 20-64.
+-Diabetic retinopathy also known as diabetic eye disease, is a medical state in which destruction occurs to the retina due to diabetes mellitus, It is a major cause of blindness in advance countries.
+-Diabetic retinopathy influence up to 80 percent of those who have had diabetes for 20 years or more.
+-The overlong a person has diabetes, the higher his or her chances of growing diabetic retinopathy.
+-It is also the main cause of blindness in people of age group 20-64.
 Diabetic retinopathy is the outcome of destruction to the small blood vessels and neurons of the retina.
 
 
