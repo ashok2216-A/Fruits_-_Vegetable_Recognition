@@ -59,6 +59,8 @@ The paper introduces the dataset and implementation of a Neural Network trained 
 # LICENSE
 
 
+![This is an image](https://tse4.mm.bing.net/th/id/OIP.Eb5UsQ_5mF3xe3DEppv3cwAAAA?w=126&h=150&c=7&r=0&o=5&pid=1.7)
+
 License
 MIT License
 
@@ -82,7 +84,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-![This is an image](https://tse4.mm.bing.net/th/id/OIP.Eb5UsQ_5mF3xe3DEppv3cwAAAA?w=126&h=150&c=7&r=0&o=5&pid=1.7)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
