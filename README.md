@@ -122,6 +122,11 @@ A Convolutional Neural Network, also known as CNN or ConvNet, is a class of neur
 - It is also the main cause of blindness in people of age group 20-64.
 Diabetic retinopathy is the outcome of destruction to the small blood vessels and neurons of the retina.
 
+# Convolutional Neural Network Architectures :
+
+we will see what are convolutional neural network architectures right from basic and we will take a basic architecture as a case study to apply our learnings, The only pre-requisite is you just need to know how convolution works But don’t worry it is very simple !!
+
+Let us take a simple Convolutional neural network,
 
 ![This is an image](https://th.bing.com/th/id/R.b8078035020e40fa966679ee1fe544cb?rik=3%2fCoOK1Sz%2bfJRQ&riu=http%3a%2f%2frpmarchildon.com%2fwp-content%2fuploads%2f2018%2f06%2fRM-CNN-Schematic-1.jpg&ehk=5HvEQOLFRNxWH6oVbMj9z8Zb%2fBZWK2eHigBBAbezCm8%3d&risl=&pid=ImgRaw&r=0)
 
@@ -132,7 +137,7 @@ Diabetic retinopathy is the outcome of destruction to the small blood vessels an
 
 
 
-![GitHub Dark](https://editor.analyticsvidhya.com/uploads/99433dnn4.gif)
+![This is an image](https://editor.analyticsvidhya.com/uploads/99433dnn4.gif)
 
 
 
