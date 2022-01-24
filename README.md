@@ -199,3 +199,28 @@ Yes, we have dealt with the Blue screen on previous articles. There are many rea
 - Performance FP32 (float)		8.1 TFLOPS		
 - Performance FP64 (double)		254.4 GFLOPS
 
+Finaly Model Deployment :
+
+your saved model have been deploy into cloud or edge devices
+
+Suggested Products : 
+
+OpenCV AI Kit
+
+![This is an image](https://blog.roboflow.com/content/images/2021/05/image-10.png)
+
+- Open CV AI Kit comes with two variations of spatial AI cameras OAK-1 and OAK-D.
+- Both OAK-1 and OAK-D supports Windows, Linux, and Mac-OS platform.
+- OAK-1 has a single-camera 4k @ 60fps hardware module which includes a Myriad X and is a tiny 45 mm x 30 mm.
+- OAK-D has a 4k @ 60fps camera and stereo depth cameras that provide spatial 3D tracking capability. It is about the size of a Raspberry Pi.
+- The hardware includes a 12-megapixel auto-focus camera with a wide horizontal field of view and 4056 x 3040 resolutions. 
+- The raw video output is at up to 4K/60fps with hardware 4K H.265 video encoding. 
+- OAK-1 is a single camera solution that can do neural inference like image classification, object detection, segmentation and much more on the device.
+- OAK-D is a Spatial AI solution that comes with a stereo camera in addition to the standard RGB camera. This can be considered as a higher version of OAK-1.
+- They have a software library for advanced on-device real-time neural network processing for the OAK boards.
+
+Nvidia Jetson Toolkits
+
+![This is an image](https://tse3.mm.bing.net/th/id/OIP.DJSpPI9EfLZ4Qc3FQSTmFgHaEK?w=292&h=180&c=7&r=0&o=5&pid=1.7)
+
+
