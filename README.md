@@ -136,10 +136,11 @@ Diabetic retinopathy is the outcome of destruction to the small blood vessels an
 
 
 
+![This is an image](https://editor.analyticsvidhya.com/uploads/92373dnn5.gif)
 
 
 
-
+![This is an image](https://editor.analyticsvidhya.com/uploads/54575dnn6.png)
 
 
 
