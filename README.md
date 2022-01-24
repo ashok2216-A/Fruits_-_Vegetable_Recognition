@@ -39,7 +39,11 @@ A Logitech C920 camera was used for filming the fruits. This is one of the best 
 
 Behind the fruits, we placed a white sheet of paper as a background.
 
-Here is a movie showing how the fruits and vegetables are filmed: https://youtu.be/_HFKJ144JuU
+Here is a movie showing how the fruits and vegetables are filmed: https:/
+
+https://user-images.githubusercontent.com/74713336/150738182-d9d4c66f-0e73-4a20-87dc-bc6435ba2e1c.mp4
+
+/youtu.be/_HFKJ144JuU
 
 How fruits were extracted from background
 However, due to the variations in the lighting conditions, the background was not uniform and we wrote a dedicated algorithm that extracts the fruit from the background. This algorithm is of flood fill type: we start from each edge of the image and we mark all pixels there, then we mark all pixels found in the neighborhood of the already marked pixels for which the distance between colors is less than a prescribed value. We repeat the previous step until no more pixels can be marked.
