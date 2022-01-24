@@ -205,7 +205,7 @@ your saved model have been deploy into cloud or edge devices
 
 Suggested Products : 
 
-OpenCV AI Kit
+# OpenCV AI Kit
 
 ![This is an image](https://blog.roboflow.com/content/images/2021/05/image-10.png)
 
@@ -219,8 +219,12 @@ OpenCV AI Kit
 - OAK-D is a Spatial AI solution that comes with a stereo camera in addition to the standard RGB camera. This can be considered as a higher version of OAK-1.
 - They have a software library for advanced on-device real-time neural network processing for the OAK boards.
 
-Nvidia Jetson Toolkits
+# Nvidia Jetson Toolkits
 
-![This is an image](https://tse3.mm.bing.net/th/id/OIP.DJSpPI9EfLZ4Qc3FQSTmFgHaEK?w=292&h=180&c=7&r=0&o=5&pid=1.7)
+![This is an image](https://hackster.imgix.net/uploads/attachments/1134547/jetson_nx_briefing_16_vmxipsyqVB.png?auto=compress%2Cformat&w=740&h=555&fit=max)
 
+## Nvidia jetson better for CNN models :
 
+![image](https://user-images.githubusercontent.com/74713336/150744245-9d880610-4292-4cee-bf73-0f991c8c303b.png)
+
+They excel at running CNN inference in INT8 precision, doing that task faster and more energy efficient than GPUs – the downside being that they are not as the general purpose when it comes to different network architecture support. NVIDIA realized that GPUs alone cannot beat highly specialized hardware and decided to take the best of both worlds by having both advanced 384-core NVIDIA Volta™ GPU with 48 Tensor Cores and dedicated CNN accelerators in the new module.
