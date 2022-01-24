@@ -228,3 +228,8 @@ Suggested Products :
 ![image](https://user-images.githubusercontent.com/74713336/150744245-9d880610-4292-4cee-bf73-0f991c8c303b.png)
 
 They excel at running CNN inference in INT8 precision, doing that task faster and more energy efficient than GPUs – the downside being that they are not as the general purpose when it comes to different network architecture support. NVIDIA realized that GPUs alone cannot beat highly specialized hardware and decided to take the best of both worlds by having both advanced 384-core NVIDIA Volta™ GPU with 48 Tensor Cores and dedicated CNN accelerators in the new module.
+
+Preview attachment images (8).jpeg
+
+images (8).jpeg
+24 KB
