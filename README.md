@@ -166,16 +166,10 @@ here this is an example of max pooling so here taking a stride of two we are tak
 
 Usually, a graphics card on the path of failure will stutter or lag to fulfill your requirements. There are also other reasons that the computer is behaving in a similar way.
 
-Malware can cause a similar effect.
-The game was not optimized.
-Your graphics card is of low quality. In other words, the Game needs a recent version.
-You need to update the drivers on the computer.
-These are some signs of graphics card failure in your computer/laptop.
-
 ## 2. Glitches in Screen
-Let us assume, you are playing games or watching a movie. All of a sudden, you see weird colors appearing on the screen. Then the graphics card is on the path of failure. For a temporary solution, you can restart the computer. But note, the problem will recur. It is the time to seek a computer repair expert, and fix the problem. He can give the best suggestion on replacement or updating the graphics card. Plus, you will also get the complete maintenance of the computer.
+All of a sudden, you see weird colors appearing on the screen. Then the graphics card is on the path of failure. For a temporary solution, you can restart the computer. But note, the problem will recur. It is the time to seek a computer repair expert, and fix the problem. He can give the best suggestion on replacement or updating the graphics card. Plus, you will also get the complete maintenance of the computer.
 
-To check if the graphics card has entirely gone wrong, check it with other images or games. If the same problem happens, then you can know it is sure signs of graphics card failure.
+To check if the graphics card has entirely gone wrong, If the same problem happens, then you can know it is sure signs of graphics card failure.
 
  
 ## 3. Blue Screens
