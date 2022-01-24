@@ -181,7 +181,7 @@ To check if the graphics card has entirely gone wrong, check it with other image
 ## 3. Blue Screens
 Yes, we have dealt with the Blue screen on previous articles. There are many reasons, you may get this problem such as hard drives, RAM, graphics card and even other components. But if you notice frequent crashes during image or video viewing or working on graphic images, then it is one of the signs of graphics card failure.
 
-# GPU Specs
+# Minimum to Average GPU Specs
 
 ![This is an image](https://tse2.mm.bing.net/th/id/OIP.qh322Yoh8F1cbYT92n0_2QHaDt?w=326&h=175&c=7&r=0&o=5&pid=1.7)
 
