@@ -206,6 +206,23 @@ To check if the graphics card has entirely gone wrong, If the same problem happe
 ## 3. Blue Screens
 Yes, we have dealt with the Blue screen on previous articles. There are many reasons, you may get this problem such as hard drives, RAM, graphics card and even other components. But if you notice frequent crashes during image or video viewing or working on graphic images, then it is one of the signs of graphics card failure.
 
+# CUDA Requirement Needed :
+
+- Deep learning implementations require significant computing power, like that offered by GPUs. Without GPU systems, many deep learning models would take significantly longer to train, making them more costly and slowing innovation. 
+
+- For example, when training the models for Google Translate, Google implemented a system with 2k server-grade NVIDIA GPUs. They used this system to run hundreds of week-long TensorFlow operations. With a traditional CPU-based system, these operations would have taken months each. 
+
+- Although TensorFlow is one of the most popular frameworks for deep learning, many other frameworks also rely on CUDA for GPU support. These include Torch, PyTorch, Keras, MXNet, and Caffe2.  
+
+- Most of these frameworks use the cuDNN library, which supports deep neural networks. This shared reliance gives the frameworks roughly the same performance for equivalent uses and means that updates to CUDA or cuDNN affect all frameworks equally. 
+
+- Outside of cuDNN, there are three other main GPU-accelerated libraries for deep learning — TensorRT, NCCL, and DeepStream. TensorRT is a library created by NVIDIA for high performance learning optimization and runtimes. DeepStream is a library for video inference. NCCL is a library for multi-node and multi-GPU communications primitives.
+
+- In addition to its components for deep learning, the CUDA Toolkit includes various libraries and components. These provide support for debugging and optimization, compiling, documentation, runtimes, signal processing, and parallel algorithms. CUDA Toolkit libraries support all NVIDIA GPUs. 
+
+**CUDA Version 11.6V download link here**
+https://developer.nvidia.com/cuda-downloads
+
 # Minimum to Average GPU Specs
 
 ![This is an image](https://tse2.mm.bing.net/th/id/OIP.qh322Yoh8F1cbYT92n0_2QHaDt?w=326&h=175&c=7&r=0&o=5&pid=1.7)
