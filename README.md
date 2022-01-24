@@ -1,6 +1,6 @@
-# Data Info
+# Fruits_-_Vegetable_Recognition
 
-## Fruits_-_Vegetable_Recognition
+## Data Info
 
 Fruits 360 dataset: A dataset of images containing fruits and vegetables
 Version: 2020.05.18.0
