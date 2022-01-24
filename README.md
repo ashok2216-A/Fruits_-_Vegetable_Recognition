@@ -156,6 +156,10 @@ here this is an example of max pooling so here taking a stride of two we are tak
 # Caution
 ![This is an image](https://tse2.mm.bing.net/th/id/OIP.NBRhdDu3xPQP6dqq0kauPgHaHa?w=186&h=186&c=7&r=0&o=5&pid=1.7)
 
+## **Don't Run Without Graphics card**
+
+## If you don’t have a graphic card, then all the programs you run will cause your processor to overheat, potentially damaging it. Moreover, you can’t expect to run multiple tasks without a graphics card. Not, having a graphics card can also cause adverse effects on other hardware components like motherboard etc.
+
 ## 1. Stuttering
 
 Usually, a graphics card on the path of failure will stutter or lag to fulfill your requirements. There are also other reasons that the computer is behaving in a similar way.
