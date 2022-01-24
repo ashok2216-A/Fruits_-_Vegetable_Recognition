@@ -1,3 +1,5 @@
+# Data Info
+
 # Fruits_-_Vegetable_Recognition
 
 Fruits 360 dataset: A dataset of images containing fruits and vegetables
@@ -19,13 +21,13 @@ Image size: 100x100 pixels.
 
 Filename format: imageindex100.jpg (e.g. 32100.jpg) or rimageindex100.jpg (e.g. r32100.jpg) or r2imageindex100.jpg or r3imageindex100.jpg. "r" stands for rotated fruit. "r2" means that the fruit was rotated around the 3rd axis. "100" comes from image size (100x100 pixels).
 
-WARNING
+# WARNING
 
 There is a new -major version- of the dataset under release. A test archive (named fruits-360-original-size.zip) was already loaded to Kaggle. The new version contains images at their original (captured) size.
 The name of the image files in the new version does not contain the "_100" suffix anymore. This will help you to make distinction between this version and the old 100x100 version.
 So, if you use the 100x100 version, please make sure that the file names have the "_100" suffix. All others MUST be ignored.
 
-END OF WARNING
+# END OF WARNING
 
 Different varieties of the same fruit (apple for instance) are stored as belonging to different classes.
 
@@ -53,6 +55,8 @@ Horea Muresan, Mihai Oltean, Fruit recognition from images using deep learning, 
 The paper introduces the dataset and implementation of a Neural Network trained to recognize the fruits in the dataset.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# LICENSE
+
 
 License
 MIT License
