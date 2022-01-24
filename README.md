@@ -82,7 +82,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-/../../../../Pymodules-listoperations_AS/pymodule_v0.0.1/licence.JPG
+![This is an image](https://www.bing.com/images/search?view=detailV2&ccid=U5qSq8dy&id=0BAA22A9B83EC56A50305608A995EAAA2F83AC47&thid=OIP.U5qSq8dy1F0OEyGcrYI_ewAAAA&mediaurl=https%3a%2f%2feveripedia-storage.s3.amazonaws.com%2fProfilePicture%2fen%2fMIT_License__8a643c%2fMIT_logo.svg__28110__thumb.png&exph=320&expw=320&q=mit+license&simid=608018870818768739&FORM=IRPRST&ck=14DF5975DC1E5E37A02B26C2C0F5EACC&selectedIndex=5)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # About this Project
