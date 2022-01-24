@@ -88,13 +88,9 @@ SOFTWARE.
 
 **This Image Recognition project is build in Convolutional Neural Network (CNN)**
 
+# Convolutional Neural Network(CNN) Explained:
 
-
-
-
-
-
-
+A Convolutional Neural Network, also known as CNN or ConvNet, is a class of neural networks that specializes in processing data that has a grid-like topology, such as an image. A digital image is a binary representation of visual data. It contains a series of pixels arranged in a grid-like fashion that contains pixel values to denote how bright and what color each pixel should be.
 
 # Convolutional Neural Network(CNN) :
 
