@@ -175,6 +175,21 @@ To check if the graphics card has entirely gone wrong, check it with other image
 ## 3. Blue Screens
 Yes, we have dealt with the Blue screen on previous articles. There are many reasons, you may get this problem such as hard drives, RAM, graphics card and even other components. But if you notice frequent crashes during image or video viewing or working on graphic images, then it is one of the signs of graphics card failure.
 
+# GPU Specs
+
 ![This is an image](https://tse2.mm.bing.net/th/id/OIP.qh322Yoh8F1cbYT92n0_2QHaDt?w=326&h=175&c=7&r=0&o=5&pid=1.7)
 
+- Graphics card --		Nvidia Tesla T4		
+- Market (main)	--	Desktop		
+- Architecture	--	Turing		
+- GPU base clock		585 MHz		
+- GPU boost clock		1.59 GHz		
+- Memory frequency		1,250 MHz		
+- Effective memory speed		10 GB/s		
+- Memory size		16 GB		
+- Memory type		GDDR6		
+- Memory bus		256 bit		
+- Performance FP16 (half)		65.1 TFLOPS		
+- Performance FP32 (float)		8.1 TFLOPS		
+- Performance FP64 (double)		254.4 GFLOPS
 
