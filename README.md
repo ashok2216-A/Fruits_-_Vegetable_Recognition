@@ -158,7 +158,7 @@ here this is an example of max pooling so here taking a stride of two we are tak
 
 ## **Don't Run in Low-end Graphics card**
 
-## If you don’t have a graphic card, then all the programs you run will cause your processor to overheat, potentially damaging it. Moreover, you can’t expect to run multiple tasks without a graphics card. Not, having a graphics card can also cause adverse effects on other hardware components like motherboard etc.
+## If you don’t have a required graphic card, then all the programs you run will cause your processor to overheat, potentially damaging it. Moreover, you can’t expect to run multiple tasks without a graphics card. Not, having a graphics card can also cause adverse effects on other hardware components like motherboard etc.
 
 ## Causes
 
