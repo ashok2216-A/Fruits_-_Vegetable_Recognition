@@ -193,7 +193,7 @@ Yes, we have dealt with the Blue screen on previous articles. There are many rea
 - Performance FP32 (float)		8.1 TFLOPS		
 - Performance FP64 (double)		254.4 GFLOPS
 
-Finaly Model Deployment :
+# Finaly Model Deployment :
 
 your saved model have been deploy into cloud or edge devices
 
