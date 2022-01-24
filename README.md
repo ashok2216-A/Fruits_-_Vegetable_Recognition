@@ -201,8 +201,6 @@ Yes, we have dealt with the Blue screen on previous articles. There are many rea
 
 Finaly Model Deployment :
 
-![image](https://photos.google.com/search/_tra_/photo/AF1QipOyLBGwRvYaGq7zwf3olhvEUZIk1hsh9kZ07Fj6)
-
 your saved model have been deploy into cloud or edge devices
 
 Suggested Products : 
