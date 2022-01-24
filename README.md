@@ -201,6 +201,8 @@ Yes, we have dealt with the Blue screen on previous articles. There are many rea
 
 Finaly Model Deployment :
 
+![image](https://photos.google.com/search/_tra_/photo/AF1QipOyLBGwRvYaGq7zwf3olhvEUZIk1hsh9kZ07Fj6)
+
 your saved model have been deploy into cloud or edge devices
 
 Suggested Products : 
@@ -229,7 +231,9 @@ Suggested Products :
 
 They excel at running CNN inference in INT8 precision, doing that task faster and more energy efficient than GPUs – the downside being that they are not as the general purpose when it comes to different network architecture support. NVIDIA realized that GPUs alone cannot beat highly specialized hardware and decided to take the best of both worlds by having both advanced 384-core NVIDIA Volta™ GPU with 48 Tensor Cores and dedicated CNN accelerators in the new module.
 
-Preview attachment images (8).jpeg
+![image](https://photos.google.com/search/_tra_/photo/AF1QipOM88ZDtQ4ztIoVQfW5OSZ4xsXbdAJF9UAS0qWc)
 
-images (8).jpeg
-24 KB
+
+
+
+
