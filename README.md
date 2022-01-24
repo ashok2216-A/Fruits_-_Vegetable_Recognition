@@ -130,42 +130,24 @@ Let us take a simple Convolutional neural network,
 
 ![This is an image](https://th.bing.com/th/id/R.b8078035020e40fa966679ee1fe544cb?rik=3%2fCoOK1Sz%2bfJRQ&riu=http%3a%2f%2frpmarchildon.com%2fwp-content%2fuploads%2f2018%2f06%2fRM-CNN-Schematic-1.jpg&ehk=5HvEQOLFRNxWH6oVbMj9z8Zb%2fBZWK2eHigBBAbezCm8%3d&risl=&pid=ImgRaw&r=0)
 
+# Padding
 
-
-
-
-
-
+While applying convolutions we will not obtain the output dimensions the same as input we will lose data over borders so we append a border of zeros and recalculate the convolution covering all the input values.
 
 ![This is an image](https://editor.analyticsvidhya.com/uploads/99433dnn4.gif)
 
-
+# Striding
+Some times we do not want to capture all the data or information available so we skip some neighboring cells let us visualize it,
 
 ![This is an image](https://editor.analyticsvidhya.com/uploads/92373dnn5.gif)
+The stride is the number of pixels that the analysis window moves on each iteration. A stride of 2 means that each kernel is offset by 2 pixels from its predecessor.
 
-
+# Pooling
+In general terms pooling refers to a small portion, so here we take a small portion of the input and try to take the average value referred to as average pooling or take a maximum value termed as max pooling, so by doing pooling on an image we are not taking out all the values we are taking a summarized value over all the values present !!!
 
 ![This is an image](https://editor.analyticsvidhya.com/uploads/54575dnn6.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+here this is an example of max pooling so here taking a stride of two we are taking the maximum value present in the matrix
 
 
 
