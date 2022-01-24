@@ -1,6 +1,6 @@
-# Data Info
+# **Data Info**
 
-# Fruits_-_Vegetable_Recognition
+## Fruits_-_Vegetable_Recognition
 
 Fruits 360 dataset: A dataset of images containing fruits and vegetables
 Version: 2020.05.18.0
@@ -80,3 +80,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
