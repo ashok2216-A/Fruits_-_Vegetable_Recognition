@@ -128,33 +128,23 @@ Diabetic retinopathy is the outcome of destruction to the small blood vessels an
 
 # Convolutional Neural Network Architectures :
 
+**CNN Architectures of this Project :**
+
+![download](https://user-images.githubusercontent.com/74713336/150767664-6616fc71-75d2-45d3-8ad3-79fa756c3444.png)
+
 we will see what are convolutional neural network architectures right from basic and we will take a basic architecture as a case study to apply our learnings, The only pre-requisite is you just need to know how convolution works But don’t worry it is very simple !!
 
-
+Our Conv2d-0 layer
 
 ![download](https://user-images.githubusercontent.com/74713336/150767334-95c45207-8a8e-4f02-a4aa-9d82b10c25cc.png)
 
-
-
+Our Conv2d-1 layer
 
 ![download](https://user-images.githubusercontent.com/74713336/150767532-c1c3e6eb-b835-423e-9770-71354f118ef4.png)
 
-
-
-
+Our Conv2d-2 layer
 
 ![download](https://user-images.githubusercontent.com/74713336/150767597-8075ece4-2d73-42ad-a374-95db7bb93756.png)
-
-
-![download](https://user-images.githubusercontent.com/74713336/150767616-bd00ed2d-4c70-4c28-be49-ab3a2edc6d31.png)
-
-
-
-
-![Github Dark](https://user-images.githubusercontent.com/74713336/150767664-6616fc71-75d2-45d3-8ad3-79fa756c3444.png)
-
-
-
 
 
 Let us take a simple Convolutional neural network,
@@ -176,10 +166,19 @@ The stride is the number of pixels that the analysis window moves on each iterat
 # Pooling
 In general terms pooling refers to a small portion, so here we take a small portion of the input and try to take the average value referred to as average pooling or take a maximum value termed as max pooling, so by doing pooling on an image we are not taking out all the values we are taking a summarized value over all the values present !!!
 
+
+Our Max_Pooling-0 layer
+
 ![download](https://user-images.githubusercontent.com/74713336/150767504-75ada3a0-aea1-47da-9fa6-db48ddffac1d.png)
 
+Our Max_Pooling-1 layer
 
 ![download](https://user-images.githubusercontent.com/74713336/150767568-5e9c35f3-f03a-44a5-9e14-7fa2a1ffa049.png)
+
+Our Max_Pooling-2 layer
+
+![download](https://user-images.githubusercontent.com/74713336/150767616-bd00ed2d-4c70-4c28-be49-ab3a2edc6d31.png)
+
 
 ![This is an image](https://editor.analyticsvidhya.com/uploads/54575dnn6.png)
 
