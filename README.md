@@ -99,6 +99,8 @@ SOFTWARE.
 
 A Convolutional Neural Network, also known as CNN or ConvNet, is a class of neural networks that specializes in processing data that has a grid-like topology, such as an image. A digital image is a binary representation of visual data. It contains a series of pixels arranged in a grid-like fashion that contains pixel values to denote how bright and what color each pixel should be.
 
+![This is an image](https://th.bing.com/th/id/R.b8078035020e40fa966679ee1fe544cb?rik=3%2fCoOK1Sz%2bfJRQ&riu=http%3a%2f%2frpmarchildon.com%2fwp-content%2fuploads%2f2018%2f06%2fRM-CNN-Schematic-1.jpg&ehk=5HvEQOLFRNxWH6oVbMj9z8Zb%2fBZWK2eHigBBAbezCm8%3d&risl=&pid=ImgRaw&r=0)
+
 # Convolutional Neural Network(CNN) :
 
 - A convolutional neural network, or CNN, is a deep learning neural network sketched for processing structured arrays of data such as portrayals.
@@ -148,8 +150,6 @@ we will see what are convolutional neural network architectures right from basic
 
 
 Let us take a simple Convolutional neural network,
-
-![This is an image](https://th.bing.com/th/id/R.b8078035020e40fa966679ee1fe544cb?rik=3%2fCoOK1Sz%2bfJRQ&riu=http%3a%2f%2frpmarchildon.com%2fwp-content%2fuploads%2f2018%2f06%2fRM-CNN-Schematic-1.jpg&ehk=5HvEQOLFRNxWH6oVbMj9z8Zb%2fBZWK2eHigBBAbezCm8%3d&risl=&pid=ImgRaw&r=0)
 
 # Padding
 
