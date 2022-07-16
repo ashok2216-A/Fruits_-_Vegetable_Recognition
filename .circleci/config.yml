@@ -10,9 +10,7 @@ jobs:
           command: |
             echo 'export PATH=~$PATH:~/.local/bin' >> $BASH_ENV && source $BASH_ENV
             pip install --user -r requirements.txt
-      - run:
-          name: Run unit tests
-          command: |
+      
             
       - store_test_results:
           path: test-reports
