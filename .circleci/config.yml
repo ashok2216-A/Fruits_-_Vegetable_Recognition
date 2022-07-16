@@ -3,21 +3,36 @@ jobs:
   run_tests:
     docker:
       - image: circleci/python:3.7.4
-    steps:
-      - checkout
-      - run:
-          name: Install Python dependencies
-          command: |
-            echo 'export PATH=~$PATH:~/.local/bin' >> $BASH_ENV && source $BASH_ENV
-            pip install --user -r requirements.txt
+#     steps:
+#       - checkout
+#       - run:
+#           name: Install Python dependencies
+#           command: |
+#             echo 'export PATH=~$PATH:~/.local/bin' >> $BASH_ENV && source $BASH_ENV
+#             pip install --user -r requirements.txt
       
             
-      - store_test_results:
-          path: test-reports
-      - store_artifacts:
-          path: test-reports
-workflows:
-  build_test:
-    jobs:
-      - run_tests
+#       - store_test_results:
+#           path: test-reports
+#       - store_artifacts:
+#           path: test-reports
+# workflows:
+#   build_test:
+#     jobs:
+#       - run_tests
       
+setup:
+	python3 -m venv ~/.myrepo
+
+install:
+	pip install -r requirements.txt
+
+test:
+	python -m pytest -vv --cov=myrepolib tests/*.py
+	python -m pytest --nbval notebook.ipynb
+
+
+lint:
+	pylint --disable=R,C myrepolib cli web
+
+all: install lint test
