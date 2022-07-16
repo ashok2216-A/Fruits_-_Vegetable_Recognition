@@ -17,7 +17,11 @@ jobs:
           root: ~/project
           paths:
             - .
-
+test:
+  override:
+    - echo "test"
+    
+    
   deploy: # this can be any name you choose
     executor: python/default
     steps:
